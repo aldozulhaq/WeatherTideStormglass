@@ -1,2 +1,2 @@
 # WeatherTideStormglass
-![alt](Demo.png)
+![alt](img/Demo.png)
